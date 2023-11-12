@@ -1,12 +1,32 @@
-## Hi there 👋
+# 🚀 Welcome to the Response.run Organization! 🚀
 
-<!--
+<p align="center">
+<img width="415" alt="Screenshot 2023-11-05 at 20 06 07" src="https://github.com/responserun/.github/assets/88425310/ccd79035-284a-43a5-bcf9-c47c14162567">
 
-**Here are some ideas to get you started:**
+</p>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🌟 About Us
+
+Welcome to Response.run, where innovation meets code excellence! 👨‍💻👩‍💻 We are passionate about crafting developer-friendly packages to make your coding journey smoother and more enjoyable.
+
+## 📦 Our Packages
+
+Explore our suite of packages tailored for developers' needs:
+
+- **[Responserun-Mock](https://github.com/responserun/responserun-mock):** Crafting realistic mock data effortlessly!
+
+## 🌐 Connect with Us
+
+Stay updated with the latest releases, news, and more:
+
+- 🐦 [Twitter](https://twitter.com/responserun)
+
+## 🤝 Contributing
+
+We welcome contributions! Check out our [Contribution Guidelines](CONTRIBUTING.md) to get started.
+
+## ❤️ Support Us
+
+If you love our packages, consider giving us a ⭐️ on GitHub! It means a lot to us.
+
+Happy Coding! 🚀👩‍💻👨‍💻
